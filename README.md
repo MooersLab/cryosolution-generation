@@ -5,11 +5,15 @@
 # Excel workbook to compute recipes for a series of cryosolutions for the cryopreservation of protein crystals
 
 ## Purpose: 
+
 Remove the stress and hassle of computing the recipes for a series of cryo solutions with increasing concentration of a cryo-agent.
-These solutions are usually prepared when time is already limited.
+These solutions are usually prepared when time is already limited, such as days or even hours before shipping the crystals to a synchrotron radiation lab.
 
 ## Scope:
-Useful for vapor diffusion, dialysis, batch, and serial dehyration experiments.
+
+- Useful for vapor diffusion, dialysis, batch, and serial dehydration experiments. 
+- Supports solutions with 2 to 8 componenents other than water.
+- Supports series up to 12 solutions in length.
 
 
 ## Sources of funding
