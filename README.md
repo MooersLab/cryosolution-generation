@@ -23,10 +23,10 @@ These solutions are usually prepared when time is already limited, such as days 
 
 Some protein crystallization solutions are cryogenic, so crystals grown from these solutions can be transferred directly from the crystallization drop to the cold stream or liquid nitrogen.
 The remaining crystallization solutions have to be displaced from the surface of the crystal with either oil or replaced with a solution containing a cryogenic agent.
-In the case of the former, the crystals have to be mechanically strong enough to withstand the shear forces that the crystals experience during the displacement of the aqueous solution from their surfaces.
-In the case of the latter, crystals can be quickly passed through this solution and then supercooled.
+In the case of the former, the crystals have to be mechanically strong enough to withstand the shear forces that the crystal experiences during the displacement of the aqueous solution from their surfaces.
+In the case of the latter, crystals can be quickly passed through a cryogenic solution and then supercooled.
 This technique often requires much trial and error and one may need to shoot 100 crystals before finding one that was successfully cryoprotected in this *dip and freeze* method.
-The alternative to the *dip and freeze* method is to  expose the crystal to increasing concentrations of cryo agent.
+The alternative to the *dip and freeze* method is to expose the crystal to increasing concentrations of cryo agent by serial replacement of the crystallization solution with the cryoagenic solution. 
 
 This technique works when a favorable cryo agent is utilized.
 The discovery of the favorable cryo agent requires testing 4 or more alternatives.
