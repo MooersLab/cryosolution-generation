@@ -17,6 +17,8 @@ These solutions are usually prepared when time is already limited, such as days 
 
 ## Head of spreadsheet
 
+Shows the metadata fields and the first two recipes.
+
 <p align="center"><img src="./imgs/manual-workbook.png" alt="HTML5 Icon" style="width:600px;"></p>
 
 ## Background:
