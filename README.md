@@ -15,6 +15,10 @@ These solutions are usually prepared when time is already limited, such as days 
 - Supports solutions with 2 to 8 components other than water.
 - Supports series up to 12 solutions in length.
 
+## Head of spreadsheet
+
+<p align="center"><img src="./imgs/manual-workbook.png" alt="HTML5 Icon" style="width:600px;"></p>
+
 ## Background:
 
 Some protein crystallization solutions are cryogenic, so crystals grown from these solutions can be transferred directly from the crystallization drop to the cold stream or liquid nitrogen.
@@ -34,7 +38,7 @@ The workbook reduces the labor from a few hours to a few minutes.
 ## Features:
 
 - Grayscale highlights the cells that require entry of metadata and parameter names and values. A worksheet can be completed in less than 5 minutes.
-- Generates twelve recipes in a series of increasing cryoagent concentrations.
+- Generates twelve recipes in a series of increasing cryo-agent concentrations.
 - Vertical format eases taping into a laboratory notebook.
 - No use of color below grayscale to minimize printing cost
 
