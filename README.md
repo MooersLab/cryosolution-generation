@@ -4,7 +4,12 @@
 
 # Excel workbook to compute cryosolutions for the cryopreservation of protein crystals
 
+## Purpose: 
+Remove the stress and hassle of computing the recipes for a series of cryo solutions with increasing concentration of a cryo-agent.
+These solutions are usually prepared when time is already limited.
 
+## Scope:
+Useful for vapor diffusion, dialysis, batch, and serial dehyration experiments.
 
 
 ## Sources of funding
