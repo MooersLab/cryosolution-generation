@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
-# Excel workbook to compute recipes for a series of cryo-solutions for the cryo-cooling of protein crystals
+# Spreadsheet to compute recipes for a series of cryo-solutions for the cryo-cooling of protein crystals
 
 ## Purpose: 
 
