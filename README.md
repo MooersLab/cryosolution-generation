@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
-# Excel workbook to compute cryosolutions for the cryopreservation of protein crystals
+# Excel workbook to compute recipes for a series of cryosolutions for the cryopreservation of protein crystals
 
 ## Purpose: 
 Remove the stress and hassle of computing the recipes for a series of cryo solutions with increasing concentration of a cryo-agent.
