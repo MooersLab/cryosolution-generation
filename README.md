@@ -28,7 +28,7 @@ The remaining crystallization solutions have to be displaced from the surface of
 In the case of the former, the crystals have to be mechanically strong enough to withstand the shear forces that the crystal experiences during the displacement of the aqueous solution from their surfaces.
 In the case of the latter, crystals can be quickly passed through a cryogenic solution and then supercooled.
 This technique often requires much trial and error and one may need to shoot 100 crystals before finding one that was successfully cryoprotected in this *dip and freeze* method.
-The alternative to the *dip and freeze* method is to expose the crystal to increasing concentrations of cryo agent by serial replacement of the crystallization solution with the cryoagenic solution. 
+The alternative to the *dip and freeze* method is to expose the crystal to increasing concentrations of cryo agent by serial replacement of the crystallization solution with the cryogenic solution. 
 
 This technique works when a favorable cryo agent is utilized.
 The discovery of the favorable cryo agent requires testing 4 or more alternatives.
@@ -58,6 +58,6 @@ A variant to support use with liquid handling robot.
 ## Update history
 
 |Version      | Changes                                                                                                                                    | Date                 |
-|:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
+|:-----------|:------------------------------------------------------------------------------------------------------------------------------------------|:--------------------|
 | Version 0.2 |   Added badges, funding, and update table.                                                                                                 | 2024 August 2         |
 | Version 0.3 |   Expanded the explanation of the project in the README.md                                                                                 | 2024 August 3         |
